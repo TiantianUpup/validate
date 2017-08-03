@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TestValidateCode:war">
+    <output-path>$PROJECT_DIR$/../TestValidateCode/target</output-path>
+    <root id="archive" name="TestValidateCode-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="TestValidateCode:war exploded" />
+    </root>
+  </artifact>
+</component>
